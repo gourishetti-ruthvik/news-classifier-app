@@ -1,0 +1,4 @@
+# Ignore large or unnecessary files
+*.csv
+.ipynb_checkpoints/
+*.ipynb_checkpoints.csv
