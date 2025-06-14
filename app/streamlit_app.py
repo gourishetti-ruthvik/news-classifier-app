@@ -14,8 +14,8 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 # Load model and TF-IDF vectorizer
-model = joblib.load("model.pkl")
-tfidf = joblib.load("tfidf.pkl")
+model = joblib.load("app/model.pkl")
+tfidf = joblib.load("app/tfidf.pkl")
 
 # Preprocessing function
 stop_words = set(stopwords.words('english'))
