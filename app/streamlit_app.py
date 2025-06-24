@@ -223,7 +223,7 @@ st.markdown("""
     <hr style="margin-top: 3rem;">
     <p style='text-align: center; font-size: 0.9rem; color: grey;'>
         Developed by <b>Gourishetti Ruthvik</b><br>
-        <a href="https://github.com/your-username" target="_blank">GitHub</a> |
-        <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
+        <a href="https://github.com/gourishetti-ruthvik" target="_blank">GitHub</a> |
+        <a href="https://linkedin.com/in/gourishettiruthvik" target="_blank">LinkedIn</a>
     </p>
 """, unsafe_allow_html=True)
